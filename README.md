@@ -1,7 +1,7 @@
 # Disclaimer
 This is an unofficial tool provided as is to use at your own risk.
 
-Please see also: [MIT-License](https://github.com/suluknumoh/BuildSwitcherCS2?tab=MIT-1-ov-file)
+Please see also: [MIT-License](https://github.com/mettliebe/BuildSwitcherCS2?tab=MIT-1-ov-file)
 
 # Intention
 A way to simply switch between the production und the development build of [Cities: Skylines II](https://www.paradoxinteractive.com/games/cities-skylines-ii) based on [Konsi (Mimonsi/kosch104)](https://github.com/kosch104) guide over there https://cs2.paradoxwikis.com/Debugging
@@ -21,7 +21,7 @@ No further requirements
 [.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/download/dotnet/8.0)
 
 # Kown Issues
-please take a look at [Issues](https://github.com/suluknumoh/BuildSwitcherCS2/issues)
+please take a look at [Issues](https://github.com/mettliebe/BuildSwitcherCS2/issues)
 
 # Changelog
 ## Version 0.1

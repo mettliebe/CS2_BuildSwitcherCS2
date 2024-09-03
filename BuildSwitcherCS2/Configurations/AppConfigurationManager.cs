@@ -16,7 +16,7 @@ public static class AppConfigurationManager {
         return builder.ToString();
     }
     public static string AppMainRegion { get; } = nameof(AppMainRegion);
-    public static string ProjectUrl { get; } = "https://github.com/suluknumoh/BuildSwitcherCS2";
+    public static string ProjectUrl { get; } = "https://github.com/mettliebe/BuildSwitcherCS2";
     public static string Space { get; } = " ";
     public static string UnityPlayerDll { get; } = "UnityPlayer.dll";
     public static string Unity { get; } = nameof(Unity);

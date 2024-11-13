@@ -18,7 +18,7 @@ on
 No further requirements
 
 ## Dependent release
-[.NET Desktop Runtime 8.0](https://dotnet.microsoft.com/download/dotnet/8.0)
+[.NET Desktop Runtime 9.0](https://dotnet.microsoft.com/download/dotnet/9.0)
 
 # Kown Issues
 please take a look at [Issues](https://github.com/mettliebe/CS2_BuildSwitcherCS2/issues)
